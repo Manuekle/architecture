@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T21:53:32.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.23" etag="_QtPPgT0FnhzjNsI2NHM" type="github"><diagram name="Página-1" id="QMvRZZXuG2joxEln83zj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-27T22:02:04.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="XiHzRQSEjS9oMjJf-BiQ" version="20.8.23" type="github">
+  <diagram name="Página-1" id="QMvRZZXuG2joxEln83zj">
+    <mxGraphModel dx="970" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hNjWAvk5cqC57W3z4Oh3-1" value="Componente&lt;br&gt;Usuario" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hNjWAvk5cqC57W3z4Oh3-2" value="Componente&lt;br&gt;Categorias" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hNjWAvk5cqC57W3z4Oh3-3" value="Componente&lt;br&gt;Ingreso" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hNjWAvk5cqC57W3z4Oh3-4" value="Componente&lt;br&gt;Gastos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="500" width="140" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
